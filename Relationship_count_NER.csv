@@ -1,0 +1,109 @@
+source,target,value
+France,Russia,11
+Germany,Russia,21
+Germany,Yugoslavia,4
+Czechoslovakia,Yugoslavia,12
+Germany,Italy,21
+Austria,Germany,11
+Czechoslovakia,Germany,5
+Czechoslovakia,Spain,2
+Czechoslovakia,France,6
+France,Poland,11
+France,Germany,24
+Germany,Poland,21
+Poland,USSR,6
+Germany,USSR,6
+Estonia,Germany,5
+Estonia,Latvia,12
+Latvia,Lithuania,6
+Finland,Lithuania,11
+Finland,Germany,11
+Denmark,Poland,5
+Denmark,Norway,12
+Denmark,Sweden,6
+Germany,Sweden,6
+Belgium,Germany,5
+Belgium,Netherlands,6
+Luxembourg,Netherlands,6
+Belgium,Luxembourg,5
+Belgium,France,5
+France,Italy,5
+Greece,Yugoslavia,12
+Albania,Greece,6
+Albania,Yugoslavia,12
+Greece,USSR,6
+USSR,Ukraine,3
+Belarus,Ukraine,6
+Belarus,North Africa,2
+Libya,North Africa,6
+Egypt,Libya,15
+Egypt,Iraq,5
+Germany,Japan,23
+Japan,Russia,13
+Italy,North Africa,4
+Germany,North Africa,6
+Africa,Germany,1
+Africa,Morocco,6
+Algeria,Morocco,6
+Algeria,Italy,5
+Japan,Thailand,6
+Singapore,Thailand,6
+North Africa,Singapore,5
+Japan,North Africa,5
+Japan,Solomon Islands,16
+Philippines,Solomon Islands,6
+Japan,Philippines,6
+India,Japan,12
+France,India,6
+India,Pakistan,18
+Israel,Pakistan,6
+Israel,South Africa,12
+Israel,Libya,5
+Iran,Libya,6
+Germany,Iran,2
+France,Japan,4
+Japan,Papua New Guinea,2
+Africa,Papua New Guinea,4
+Africa,India,6
+Pakistan,Philippines,6
+Laos,Philippines,6
+Cambodia,Laos,6
+Africa,Cambodia,5
+Africa,Kenya,6
+Ghana,Kenya,6
+Africa,Ghana,6
+Africa,Cape Verde,5
+Angola,Cape Verde,6
+Angola,Mozambique,6
+Africa,Mozambique,5
+Africa,Latvia,2
+Estonia,Lithuania,6
+Finland,Romania,6
+Romania,Yugoslavia,5
+Albania,Bulgaria,6
+Bulgaria,Poland,6
+Poland,Romania,6
+Czechoslovakia,Romania,6
+Czechoslovakia,Hungary,6
+Hungary,Mongolia,5
+Cuba,Mongolia,6
+Cuba,USSR,6
+USSR,United States,9
+Canada,United States,5
+Australia,Canada,6
+Australia,Vietnam,4
+Cambodia,Vietnam,5
+Cuba,Vietnam,5
+Cuba,United States,2
+Russia,USSR,6
+Japan,USSR,2
+India,South Africa,1
+Rwanda,South Africa,5
+Finland,Russia,6
+Germany,Norway,6
+Greece,Italy,2
+Italy,Japan,6
+Afghanistan,Africa,3
+Romania,Russia,6
+India,Lebanon,1
+India,Singapore,5
